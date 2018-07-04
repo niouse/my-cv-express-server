@@ -1,0 +1,24 @@
+{
+  "name": "test-react",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "NODE_ENV=production node ./bin/www",
+    "client": "cd ./../my-cv-react.client && npm start",
+    "server": "nodemon bin/www",
+    "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\"",
+    "build": "cd ./../my-cv-react.client && npm run build && cp -rf build ./../my-cv-react.server/public"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "concurrently": "^3.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.0.1"
+  }
+}
