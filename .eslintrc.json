@@ -1,7 +1,8 @@
 {
-
+  "plugins": ["node"],
   "extends": [
-    "eslint:recommended"
+    "eslint:recommended",
+    "plugin:node/recommended"
   ],
   "env" : {
     "browser": false
