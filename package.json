@@ -7,6 +7,7 @@
     "client": "cd ./../my-cv-react.client && npm start",
     "server": "nodemon bin/www",
     "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\"",
+    "dev2": "nodemon bin/www",
     "build": "cd ./../my-cv-react.client && npm run build && cp -rf build ./../my-cv-react.server/public"
   },
   "dependencies": {

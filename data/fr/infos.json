@@ -1,0 +1,19 @@
+{
+    "title": "développeur JAVASCRIPT",
+    "firstName": "Gérard",
+    "lastName": "Petit",
+    "birthDate": "31/08/1985",
+    "email": "gerard.bienportant@gmail.com",
+    "adress": {
+       "city": "Lyon",
+       "zipCode": "69006",
+       "street": "rue de la réppublique",
+       "streetNumber": 36
+    },
+    "phone": "0654789865",
+    "presentation": "Jeune développeur web, j'utilise mes expériences acquises lors de mes précédentes expériences professionnelles pour concevoir des applications métiers multiplaterformes en javascript. Mes principaux outils de travail sont React, graphql et les architectures serverless.",
+    "isAvailable": true,
+    "linkedin" : "#",
+    "twitter" : "#",
+    "facebook" : "#"
+ }

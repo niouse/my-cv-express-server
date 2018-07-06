@@ -1,0 +1,83 @@
+[
+    {
+       "type": "language",
+       "name": "english",
+       "rate": 4
+    },
+    {
+       "type": "language",
+       "name": "french",
+       "rate": 5
+    },
+    {
+       "type": "language",
+       "name": "german",
+       "rate": 2
+    },
+    {
+       "type": "programation",
+       "name": "C++",
+       "rate": 1
+    },
+    {
+       "type": "programation",
+       "name": "javascript",
+       "rate": 5
+    },
+    {
+       "type": "programation",
+       "name": "html",
+       "rate": 4
+    },
+    {
+       "type": "software",
+       "name": "office",
+       "rate": 4
+    },
+    {
+       "type": "software",
+       "name": "Comsol",
+       "rate": 4
+    },
+    {
+       "type": "software",
+       "name": "Ansys CFX",
+       "rate": 5
+    },
+   {
+       "type": "CAO/DAO",
+       "name": "Solidworks",
+       "rate": 3
+    },
+   {
+       "type": "CAO/DAO",
+       "name": "Autocad",
+       "rate": 5
+    },
+    {
+       "type": "CAO/DAO",
+       "name": "Blender",
+       "rate": 5
+    },
+   
+   {
+       "type": "frameworks",
+       "name": "React",
+       "rate": 5
+    },
+   {
+       "type": "frameworks",
+       "name": "Angular",
+       "rate": 2
+    },
+   {
+       "type": "frameworks",
+       "name": "Vuejs",
+       "rate": 1
+    },
+   {
+       "type": "frameworks",
+       "name": "Vanilla",
+       "rate": 5
+    }
+ ]

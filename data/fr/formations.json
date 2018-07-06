@@ -1,0 +1,30 @@
+[
+    {
+       "startDate": "2007",
+       "endDate": "2010",
+       "title": "Diplome d'ingégnieur en thermique du batiment",
+       "schoolName" : "ENSIG",
+       "location" : "NANTES"
+    },
+   {
+       "startDate": "2005",
+       "endDate": "2007",
+       "title": "IUT mesures physiques",
+       "schoolName" : "Lycée Charlemagne",
+       "location" : "Rouen"
+    },
+    {
+       "startDate": "2004",
+       "endDate": "2005",
+       "title": "Bachalauréat scientifique option SVT",
+       "schoolName" : "Lycée Charlemagne",
+       "location" : "Rouen"
+    },
+   {
+       "startDate": "2004",
+       "endDate": "2005",
+       "title": "Bachalauréat scientifique option SVT",
+       "schoolName" : "Lycée Charlemagne",
+       "location" : "Rouen"
+    }
+ ]

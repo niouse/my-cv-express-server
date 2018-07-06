@@ -1,0 +1,60 @@
+[
+    {
+        "startDate": "2013",
+        "endDate": "Actual",
+        "duration" : "",
+        "type" : "freelance",
+        "title": "Développeur web",
+        "description": "Développement d'applications web métiers",
+        "location": "Lyon",
+        "missions": [
+          "Aise à la rédaction de cahier des charges.",
+          "Développement d'application web ou mobile (Android et iOs)"
+        ],
+        "skillsLearned": ["autonomie", "javascript", "html"]
+     },
+    {
+        "startDate": "2011",
+        "endDate": "2013",
+        "duration" : "24 mois",
+        "type" : "CDI",
+        "title": "Chargé d'affaire études thermiques",
+        "description": "Cconception thermique d'organes ou systèmes thermiques, en lien avec le refroidissement moteur ou chauffage habitacle.",
+        "society" : {
+           "name" : "AREVA",
+           "logo" : "logos/areva-logo.jpg",
+           "description" : "Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,nisi elit consequat ipsum,nec sagittis sem nibh id elit.Duis.",
+           "link" : ""
+        },
+        "location": "Lyon",
+        "missions": [
+          "Analyser le Cahier des charges.",
+           "Rechercher les concepts et dimensionner les systèmes thermiques.",
+          "Rechercher les solutions de simulations thermiques.",
+          "Animer les échanges avec les services connexes (Design, Essais & Validation, architecture, atelier prototypes), les fournisseurs et les clients.",
+           "Analyser la concurrence."
+        ],
+        "skillsLearned": ["gestion de projet", "travail en équipe", "C++"]
+     },
+     {
+        "startDate": "2009",
+        "endDate": "2010",
+        "duration" : "6 mois",
+        "type" : "Stage",
+        "title": "Stage ingégnieur thermicien",
+        "description": "Etudes de faisabilité d'installation de systèmes de panneaux solaires thermiques ",
+        "society" : {
+           "name" : "AREVA",
+           "logo" : "logos/areva-logo.jpg",
+           "description" : "Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor,nisi elit consequat ipsum,nec sagittis sem nibh id elit.Duis.",
+           "link" : ""
+        },
+        "location": "Lyon",
+        "missions": [
+           "Développer des modèles thermiques  ",
+           "Calcul des gains énergétiques et retours sur investissemnt ",
+           "Etablissement de dossiers pour l'obtention de crédit d'impots"
+        ],
+        "skillsLearned": ["gestion de projet", "travail en équipe", "rigueur", "office"]
+     }
+  ]

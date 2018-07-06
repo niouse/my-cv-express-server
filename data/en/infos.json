@@ -1,0 +1,19 @@
+{
+    "title": "développeur JAVASCRIPT",
+    "firstName": "Gérard",
+    "lastName": "Gagnant",
+    "birthDate": "31/08/1985",
+    "email": "gerard.bienportant@gmail.com",
+    "adress": {
+        "city": "Lyon",
+        "zipCode": "69006",
+        "street": "rue de la réppublique",
+        "streetNumber": 36
+    },
+    "phone": "0654789865",
+    "presentation": "Young web developer, I use my experiences acquired during my previous professional experiences to design multi-platform applications in javascript. My main working tools are React, graphql and serverless architectures.",
+    "isAvailable": true,
+    "linkedin": "#",
+    "twitter": "#",
+    "facebook": "#"
+}
